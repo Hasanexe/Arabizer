@@ -18,5 +18,5 @@ Contributions to `Arabizer` are welcome! To contribute, please follow these step
 
 ## License
 
-`extractTxtFromDocx` is licensed under the [Creative Commons Attribution-NonCommercial (CC BY-NC) license](https://creativecommons.org/licenses/by-nc/4.0/).
+`Arabizer` is licensed under the [Creative Commons Attribution-NonCommercial (CC BY-NC) license](https://creativecommons.org/licenses/by-nc/4.0/).
 
